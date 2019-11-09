@@ -1,0 +1,4 @@
+storePassword=shop_app
+keyPassword=shop_app
+keyAlias=key
+storeFile=/Users/Gayathri/Desktop/key.jks
